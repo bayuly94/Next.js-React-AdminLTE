@@ -7,7 +7,7 @@
     "@zeit/next-sass": "^1.0.1",
     "admin-lte": "v3",
     "bootstrap": "^4.5.0",
-    "next": "^9.4.4",
+    "next": "^11.1.0",
     "node-sass": "^4.14.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
